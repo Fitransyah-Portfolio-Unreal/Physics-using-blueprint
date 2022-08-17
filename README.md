@@ -12,7 +12,12 @@
 - material and lighting
 - simplified collision for barrel blueprint
 - mass physic simulation [watch here](https://drive.google.com/file/d/14-d3wcNixUu6AFLM4IJoY4MCmVYtrEry/view?usp=sharing)  
-- Level blueprint before function :
-- ![level blueprint before function](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/level%20blueprint.png?raw=true)
+- Level blueprint before function :  
+
+![level blueprint before function](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/level%20blueprint.png?raw=true)
+  
 - Level blueprint after function
-- ![level blueprint after function](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/after%20function.png?raw=true)
+  
+![level blueprint after function](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/after%20function.png?raw=true)
+  
+  
