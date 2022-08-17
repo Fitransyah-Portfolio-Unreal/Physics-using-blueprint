@@ -7,3 +7,4 @@
 - Spawning [watch here](https://drive.google.com/file/d/18epv29LTGgiQOmc8ehUvnXQKE3Lfnlbm/view?usp=sharing)  
 - combine impulse with spawn [watch here](https://drive.google.com/file/d/1ofSYlPGCLRMu6-feK4poYKkK7uIJ1OJW/view?usp=sharing)  
 - spawn projectile from actor position and using control rotation [watch here](https://drive.google.com/file/d/1PmQaTEY-cxzTBDRg_kiaj9OxEigVZBbV/view?usp=sharing)  
+- the right shooting direction [watch here](https://drive.google.com/file/d/1qzF3-jurmNimQqbbD2BoC_eW8A6oIcEt/view?usp=sharing)  
