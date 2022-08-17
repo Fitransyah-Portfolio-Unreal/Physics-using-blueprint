@@ -20,4 +20,11 @@
   
 ![level blueprint after function](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/after%20function.png?raw=true)
   
-  
+## Final Result  
+- Print welcome message and starting ammo at start
+- Ammo is 100  
+- After out of ammo, launch projectile mechanic stop
+- After delay 5 second level restart
+- Final blueprint :
+
+![final level blueprint](https://github.com/Fitransyah-Portfolio-Unreal/Physics-using-blueprint/blob/master/core%20gameplay.png?raw=true)  
